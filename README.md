@@ -1,7 +1,7 @@
 
 <h1 align="center"><a target="_blank">
 
-<h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 Ousman </h1>
+<h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 Ⲟυⲋⲙⲁⲛ </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23b710ab&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+Welcome+to+My+Github+Profile!;I+am+Passionate+frontend+Software+Engineer;come+and+let's+build+the+impossible.">    
